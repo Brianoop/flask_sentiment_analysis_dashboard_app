@@ -1,9 +1,5 @@
 # Flask Ukraine Russia War Sentiment Analysis
-Blog Tutorial: https://ashutoshkrris.hashnode.dev/how-to-set-up-basic-user-authentication-in-a-flask-app
-
-Project Demo: https://youtu.be/XxSESg89xEI
-
-
+This flask application displays concepts such as user authentication, responsive design, database connectivity using sqlite, environmmen configuration, sentiment analysis model integration and file IO.
 # HOW TO RUN PROJECT
 
 To set environment variables, run:
